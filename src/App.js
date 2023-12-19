@@ -7,6 +7,7 @@ function App() {
       {/*  */}
       <MovieList />
       {/* dev 添加注释 */}
+      {/* 测试 git commit -am "" */}
     </div>
     // <div className="border border-gray-400 rounded-2xl p-2 m-2 flex justify-around items-center">
     //   <h1 className="text-3xl font-bold underline">
